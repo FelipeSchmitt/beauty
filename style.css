@@ -112,6 +112,7 @@ a{
   #box{
     width: 95%;
     order: 2;
+    height:350px
   }
   .text1{
     width: 90%;
